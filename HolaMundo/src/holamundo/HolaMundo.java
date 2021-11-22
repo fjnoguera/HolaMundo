@@ -21,6 +21,7 @@ public class HolaMundo {
         // TODO code application logic here
         
         System.out.println("Esta es la version 1.1");
+        System.out.println("Esta es la version 1.2");
     }
 
 }
